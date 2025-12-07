@@ -20,3 +20,5 @@ The data shows two major things about bank's performance: your money flow is sta
      6. What this means: If this ratio measures highly active customers versus  total customer base, it implies that out of $\mathbf{100,000}$ customers, only about 19 customers are considered highly active. The vast majority of  business volume comes from a tiny fraction of  users.
      7. Actionable Summary
      8. The bank's ledger is healthy and balanced, but its operational performance is weak. i have 100,000 customers who are essentially non-users.  primary business objective should be to increase customer engagement and transaction volume to move accounts from "dormant" to "active."
+
+        
