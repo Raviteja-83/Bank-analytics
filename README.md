@@ -1,6 +1,7 @@
 # Bank-analytics
 This project analyzes customer financial transactions and loan portfolios to understand bank performance, customer behavior, and risk patterns. The dataset includes credit transactions, debit transactions, and loan details such as disbursement amount, term, interest, maturity, and customer demographics.
-EXCEL KEY FEATURES
+
+#EXCEL KEY FEATURES
 The data shows two major things about bank's performance: your money flow is stable but customer activity is very low.
 1. Extremely Balanced Money Flow bank's total Credits (money coming in) and Debits (money going out) are almost perfectly equal.
 2. Total Credit Amount:127.60M
