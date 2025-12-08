@@ -67,7 +67,7 @@ POWER BI KEY FEATURES
 
 Here there is another dataset named Bank analytics contains loan data and dashboard is loan dashboard and it was done by tableau and SQL
 
- TABLEAU KET INSIGHTS
+TABLEAU KET INSIGHTS
 
 1. Overall Portfolio Performance
 
