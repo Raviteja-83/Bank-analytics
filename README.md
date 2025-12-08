@@ -180,7 +180,7 @@ SQL KEY INSIGHTS
 
  3. Total Collection
 
-   Total loan collection crossed Crores, which means:
+     Total loan collection crossed Crores, which means:
   * Strong repayment rate
   * Effective recovery operations
   * Healthy cash flow for the bank
