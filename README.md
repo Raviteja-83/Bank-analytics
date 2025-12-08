@@ -64,6 +64,112 @@ POWER BI KEY FEATURES
    i am also insert page navigation and slicers in this dashboard.
 
    ![image alt](https://github.com/Raviteja-83/Bank-analytics/blob/07318e086b2cc00fc31929997df81a8451176e8f/Screenshot%202025-12-08%20155238.png)
+
+Here there is another dataset named Bank analytics contains loan data and dashboard is loan dashboard and it was done by tableau and SQL
+
+ TABLEAU KET INSIGHTS
+
+1.1. Overall Portfolio Performance
+
+  * Total loan amount: ₹75,09,67,500
+  * Total loans: 65,535
+  * Total interest collected: ₹15,52,88,805.82
+  * Total collection: ₹81,49,02,500.45
+
+  The bank’s loan portfolio is performing strongly, with collections exceeding the total loan issued amount—indicating effective recovery operations.
+
+2.Loan Status Breakdown
+
+  * Active loans: 39,127
+  * Closed loans: 18,929
+  * Default loans: 7,479
+
+A significant portion (60%) of loans are active, while 11.4% of loans are in default, requiring targeted follow-up to reduce future NPAs.
+
+3.Default & Delinquent Overview
+
+  * Default loan count: 1,020
+  * Delinquent clients: 7,106
+
+  Although default count appears moderate, the delinquent client number is high, suggesting a growing risk segment that needs action before they convert into full defaults.
+
+4.State-wise Loan Performance
+
+  Top performing states by loan count:
+
+  *Uttar Pradesh: 11,965
+  *Punjab: 10,192
+  *Bihar: 8,544
+  *Haryana: 6,832
+  *Rajasthan: 5,730 
+
+  The bank has the strongest customer base in North Indian states (UP, Punjab, Bihar).
+  Lower loan counts in smaller states suggest market expansion opportunities.
+
+5.Grade-wise Loan Distribution
+
+ * Highest loan distribution in Grade A (25,818).
+ * Grades B (10,085), C (12,020), D (8,098), E (5,307), F (2,842), G (1,049) show decreasing trend.
+
+  Most loans fall under low-risk categories (A–C), indicating good credit quality and stable borrower profiles.
+
+6.Branch-wise Performance
+
+ * Many branches show collection amounts between 1M–4M, with some branches performing exceptionally.
+ * Several branches show low or zero amounts (as seen in chart density).
+
+ Branch performance is uneven, with some branches requiring additional support, training, or monitoring for better performance.    
+
+7.Default Loan Rate by Branch
+
+ * Several branches show extremely high default rates (e.g., >90%).
+ * Some branches show 100% default rate, though likely due to low loan count or missing data.
+
+ A few branches are high-risk zones and require audit, credit policy review, or improved underwriting controls.
+
+8.Loan Maturity Distribution
+
+  Loan maturity by year:
+
+  2022: 18,339 (highest), 2021: 10,748, 2023: 9,115, 2020: 22, 2024: 5,536, 2025: 850
+
+  A bulk of loans will mature in 2021–2023, meaning the bank should prepare for peak collection cycles during these years.
+
+9.Disbursement Trend (2017–2020)
+
+ * Strong disbursement growth from 2017 (21M) to 2020 (99.4M).
+ * Stable trend across the timeline with multiple seasonal peaks.
+
+ Loan disbursement has grown steadily, showing strong demand, especially in late 2019 and 2020.
+
+10. Religion-wise Loans
+
+  * Hindu: 49,155
+  * Christian: 8,725
+  * Muslim: 7,109
+
+Majority of customers belong to the Hindu community, suggesting demographic dominance in certain regions.
+
+11. Age Group-wise Loans
+
+  * 26–35 age group holds the highest loan count.
+  * Followed by 36–45 and 46–60.
+
+  Most loans are given to working-age customers, indicating strong demand in income-generating borrower segments.
+
+ 12. Product-wise Loans
+
+   * Home loans: 24,437 (largest share)
+   * Other services account for remaining smaller portions.
+
+   Home loans form the largest and most important product segment, providing stable, long-term revenue for the bank.  
+
+
+ 
+ 
+
+ 
+
    
 
      
