@@ -164,6 +164,8 @@ Majority of customers belong to the Hindu community, suggesting demographic domi
 
    Home loans form the largest and most important product segment, providing stable, long-term revenue for the bank.  
 
+   ![image alt](https://github.com/Raviteja-83/Bank-analytics/blob/f033331b85ffc93a621c10b6b3b861433ed1bba9/Screenshot%202025-12-08%20163218.png)
+
 
  
  
