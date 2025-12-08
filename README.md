@@ -25,40 +25,40 @@ The data shows two major things about bank's performance: your money flow is sta
 
 POWER BI KEY FEATURES
 
-1.Overall financial performance
+1. Overall financial performance
 
   * The bank shows a steady increase in credit transactions, indicating strong customer lending behavior.
   * Debit transactions remain stable, suggesting consistent customer withdrawals and payment activities.
    
-2.Credit to debit ratio
+2. Credit to debit ratio
 
   The ratio of credit to debit ration is 1.0061 that means 
   * Credit amount is slightly higher than debit amount.
   * The bank is issuing (or receiving) more credit transactions than the amount being debited/withdrawn.
   * This ratio is very close to 1, so the inflow (credit) and outflow (debit) are almost balanced.
    
-3.Branch performance
+3. Branch performance
 
   * Main branch is slightly higher than remaining branches in transaction method category
   * Remianing branch preformance of transaction method is very well
 
-4.Transaction amount by bank
+4. Transaction amount by bank
 
  * ICICI bank performace is higher than other banks
  * panjabi national bank very low performace according to transaction amount
   
-5.Monthly transaction trend
+5. Monthly transaction trend
 
  * The bank experiences stable transaction activity throughout the year.
  * May and October are the peak months for customer transactions.
  * December’s sharp drop may be due to missing or partial data.
   
-6.Transaction Type Share
+6. Transaction Type Share
 
  * Customers are using bank services consistently for both inflows (credits) and outflows (debits).
  * No heavy dependency on either type of transaction.
   
-7.Account activity Ratio
+7. Account activity Ratio
 
  * The bank may need to improve customer engagement to increase account activity rates.
    i am also insert page navigation and slicers in this dashboard.
@@ -76,7 +76,7 @@ TABLEAU KET INSIGHTS
   * Total interest collected: ₹15,52,88,805.82
   * Total collection: ₹81,49,02,500.45
 
-  The bank’s loan portfolio is performing strongly, with collections exceeding the total loan issued amount—indicating effective recovery operations.
+   The bank’s loan portfolio is performing strongly, with collections exceeding the total loan issued amount—indicating effective recovery operations.
 
 2. Loan Status Breakdown
 
@@ -84,14 +84,14 @@ TABLEAU KET INSIGHTS
   * Closed loans: 18,929
   * Default loans: 7,479
 
-A significant portion (60%) of loans are active, while 11.4% of loans are in default, requiring targeted follow-up to reduce future NPAs.
+   A significant portion (60%) of loans are active, while 11.4% of loans are in default, requiring targeted follow-up to reduce future NPAs.
 
 3. Default & Delinquent Overview
 
   * Default loan count: 1,020
   * Delinquent clients: 7,106
 
-  Although default count appears moderate, the delinquent client number is high, suggesting a growing risk segment that needs action before they convert into full defaults.
+   Although default count appears moderate, the delinquent client number is high, suggesting a growing risk segment that needs action before they convert into full defaults.
 
 4. State-wise Loan Performance
 
