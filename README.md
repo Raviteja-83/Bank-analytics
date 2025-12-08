@@ -21,7 +21,7 @@ The data shows two major things about bank's performance: your money flow is sta
      7. Actionable Summary
      8. The bank's ledger is healthy and balanced, but its operational performance is weak. i have 100,000 customers who are essentially non-users.  primary business objective should be to increase customer engagement and transaction volume to move accounts from "dormant" to "active."
 
-   ![image alt](https://github.com/Raviteja-83/Bank-analytics/blob/281202a985c83940c4727e655e497e5b9e8e3c72/Screenshot%202025-12-07%20162217.png)
+   ![image alt](https://github.com/Raviteja-83/Bank-analytics/blob/9a13c888410382e98fdad29d71d9f79d6aefb70b/Screenshot%202025-12-08%20220722.png)
 
 POWER BI KEY FEATURES
 
