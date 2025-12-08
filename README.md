@@ -69,7 +69,7 @@ Here there is another dataset named Bank analytics contains loan data and dashbo
 
  TABLEAU KET INSIGHTS
 
-1.1. Overall Portfolio Performance
+1. Overall Portfolio Performance
 
   * Total loan amount: ₹75,09,67,500
   * Total loans: 65,535
@@ -78,7 +78,7 @@ Here there is another dataset named Bank analytics contains loan data and dashbo
 
   The bank’s loan portfolio is performing strongly, with collections exceeding the total loan issued amount—indicating effective recovery operations.
 
-2.Loan Status Breakdown
+2. Loan Status Breakdown
 
   * Active loans: 39,127
   * Closed loans: 18,929
@@ -86,14 +86,14 @@ Here there is another dataset named Bank analytics contains loan data and dashbo
 
 A significant portion (60%) of loans are active, while 11.4% of loans are in default, requiring targeted follow-up to reduce future NPAs.
 
-3.Default & Delinquent Overview
+3. Default & Delinquent Overview
 
   * Default loan count: 1,020
   * Delinquent clients: 7,106
 
   Although default count appears moderate, the delinquent client number is high, suggesting a growing risk segment that needs action before they convert into full defaults.
 
-4.State-wise Loan Performance
+4. State-wise Loan Performance
 
   Top performing states by loan count:
 
@@ -106,28 +106,28 @@ A significant portion (60%) of loans are active, while 11.4% of loans are in def
   The bank has the strongest customer base in North Indian states (UP, Punjab, Bihar).
   Lower loan counts in smaller states suggest market expansion opportunities.
 
-5.Grade-wise Loan Distribution
+5. Grade-wise Loan Distribution
 
  * Highest loan distribution in Grade A (25,818).
  * Grades B (10,085), C (12,020), D (8,098), E (5,307), F (2,842), G (1,049) show decreasing trend.
 
   Most loans fall under low-risk categories (A–C), indicating good credit quality and stable borrower profiles.
 
-6.Branch-wise Performance
+6. Branch-wise Performance
 
  * Many branches show collection amounts between 1M–4M, with some branches performing exceptionally.
  * Several branches show low or zero amounts (as seen in chart density).
 
  Branch performance is uneven, with some branches requiring additional support, training, or monitoring for better performance.    
 
-7.Default Loan Rate by Branch
+7. Default Loan Rate by Branch
 
  * Several branches show extremely high default rates (e.g., >90%).
  * Some branches show 100% default rate, though likely due to low loan count or missing data.
 
  A few branches are high-risk zones and require audit, credit policy review, or improved underwriting controls.
 
-8.Loan Maturity Distribution
+8. Loan Maturity Distribution
 
   Loan maturity by year:
 
@@ -135,7 +135,7 @@ A significant portion (60%) of loans are active, while 11.4% of loans are in def
 
   A bulk of loans will mature in 2021–2023, meaning the bank should prepare for peak collection cycles during these years.
 
-9.Disbursement Trend (2017–2020)
+9. Disbursement Trend (2017–2020)
 
  * Strong disbursement growth from 2017 (21M) to 2020 (99.4M).
  * Stable trend across the timeline with multiple seasonal peaks.
