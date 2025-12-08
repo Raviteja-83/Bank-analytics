@@ -197,7 +197,80 @@ SQL KEY INSIGHTS
   * Interest
   * Fees
   * Late fee recoveries
-  * Miscellaneous recoveries       
+  * Miscellaneous recoveries
+
+ 6. State-wise Loans
+
+   * A few states contribute maximum loan volume (Crores/Lakhs).
+   Indicates the Strong customer presence in those states and High demand for credit in specific regions
+  * States with lower loan count represent market expansion opportunity.
+
+7.Religion-wise Loans
+
+  * One religion group contributes majority of the loan accounts.
+  * Smaller groups have taken fewer loans, showing targeted market concentration.
+
+8. Product Group-wise Loans
+
+ * Certain loan types (Home Loan, Personal Loan, Business Loan, etc.) dominate the portfolio.
+  Helps identify:
+   * Top-performing loan products
+   * Less popular loan categories
+
+ 9. Disbursement Trend
+
+  * Loan disbursements are consistent year-by-year.
+  * Some years show a spike, indicating the Strong economic activity, Successful marketing campaigns and Higher customer demand
+
+ 10. Grade-wise Loans
+
+  * Highest loan volume is in Grade A → C, shows the Low-risk customer base and Higher approval rate for good credit profiles.
+  * Very few loans in Grade F/G indicates the Bank is avoiding high-risk customers.
+
+ 11. Default Loan Count
+
+  * Default loan count represents customers who stopped paying.
+  * This is a critical KPI to track for risk management.
+
+ 12. Delinquent Client Count
+
+   * High delinquent clients it means Customers have missed EMIs and Many may convert into future defaults
+   * This requires immediate follow-up to reduce NPA (Non-Performing Assets)
+
+13. Delinquent Loan Rate
+
+  * Delinquent rate (%) shows the overall health of the portfolio.
+  * Higher rate → rising risk
+  * Lower rate → strong repayment behaviour
+
+14. Default Loan Rate
+
+  * Shows % of loans that completely defaulted.
+  * High default rate = poor portfolio quality
+  * Low default rate = strong underwriting and customer screening
+
+15. Loan Status-wise Loans
+
+  * Majority of loans are Active, that means Customers are still paying and Bank has continuous revenue
+  * Closed loans indicate successful repayment cycles.
+  * Default loans show risk zones.
+
+16. Age Group-wise Loans
+
+  * 26–35 age group has the highest loans i.e, Active workforce,Home buying, business and education loans
+  * Age 36–45 also strong, showing stable income borrowers.
+  * Very small loan count for 60+, which aligns with risk policies.
+
+17. Not Verified Loans
+
+  * High number of “Not Verified” customers indicates the Operational verification gap and Higher risk of fraud or unpaid loans
+  * Needs improvement in KYC and document verification.
+
+18. Loan Maturity
+
+  * Maturity dates spread across many years.
+  * Large volumes maturing in the near future → peak collection periods.
+  * Helps the bank plan for Recovery resources, Cashflow buffer and EMI reminders             
 
           
 
