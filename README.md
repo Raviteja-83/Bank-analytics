@@ -63,4 +63,7 @@ POWER BI KEY FEATURES
  * The bank may need to improve customer engagement to increase account activity rates.
    i am also insert page navigation and slicers in this dashboard.
 
+   ![image alt](https://github.com/Raviteja-83/Bank-analytics/blob/07318e086b2cc00fc31929997df81a8451176e8f/Screenshot%202025-12-08%20155238.png)
+   
+
      
