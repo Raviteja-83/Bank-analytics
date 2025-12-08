@@ -26,27 +26,34 @@ The data shows two major things about bank's performance: your money flow is sta
 POWER BI KEY FEATURES
 
 1.Overall financial performance
+
   * The bank shows a steady increase in credit transactions, indicating strong customer lending behavior.
   * Debit transactions remain stable, suggesting consistent customer withdrawals and payment activities.
 2.credit to debit ratio
-  the ratio of credit to debit ration is 1.0061 that means 
+
+  The ratio of credit to debit ration is 1.0061 that means 
   * Credit amount is slightly higher than debit amount.
   * The bank is issuing (or receiving) more credit transactions than the amount being debited/withdrawn.
   * This ratio is very close to 1, so the inflow (credit) and outflow (debit) are almost balanced.
 3.Branch performance
+
   * Main branch is slightly higher than remaining branches in transaction method category
   * Remianing branch preformance of transaction method is very well
 4.Transaction amount by bank
+
  * ICICI bank performace is higher than other banks
  * panjabi national bank very low performace according to transaction amount
 5.Monthly transaction trend
+
  * The bank experiences stable transaction activity throughout the year.
  * May and October are the peak months for customer transactions.
  * December’s sharp drop may be due to missing or partial data.
 6.Transaction Type Share
+
  * Customers are using bank services consistently for both inflows (credits) and outflows (debits).
  * No heavy dependency on either type of transaction.
 7.Account activity Ratio
+
  * The bank may need to improve customer engagement to increase account activity rates.
    i am also insert page navigation and slicers in this dashboard.
 
