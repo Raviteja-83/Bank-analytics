@@ -166,6 +166,41 @@ Majority of customers belong to the Hindu community, suggesting demographic domi
 
    ![image alt](https://github.com/Raviteja-83/Bank-analytics/blob/f033331b85ffc93a621c10b6b3b861433ed1bba9/Screenshot%202025-12-08%20163218.png)
 
+SQL KEY INSIGHTS
+
+ 1. Total Loan Amount Funded
+
+  * The bank has funded very high-value loans, reaching Crores (Cr).
+  * This indicates strong business growth and high customer credit demand.
+
+ 2. Total Loans Count
+
+  * The total number of loans shows a large and active customer base.
+  * Higher loan count also means greater risk exposure, requiring strong monitoring.
+
+ 3. Total Collection
+
+   Total loan collection crossed Crores, which means:
+  * Strong repayment rate
+  * Effective recovery operations
+  * Healthy cash flow for the bank
+
+ 4. Total Interest
+
+  * The bank earned very high interest income.
+  * This is a major contributor to profitability.
+  * Indicates that customers are repaying EMI regularly.
+
+5. Branch wise performance
+
+   Some branches are performing extremely well, generating high revenue from:
+  * Interest
+  * Fees
+  * Late fee recoveries
+  * Miscellaneous recoveries       
+
+          
+
 
  
  
